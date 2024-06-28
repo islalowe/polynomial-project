@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/polynomial_project.dir/polynomial.cpp.o CMakeFiles/polynomial_project.dir/unit-test.cpp.o -o polynomial_project 
